@@ -1,0 +1,84 @@
+ThemeAuthor="Geovanny Junio <geovannjs at gmail.com>"
+ThemeDescription="The personal theme of Geovanny Junio"
+Look="flat"
+
+
+
+ColorActiveMenuItem = #444444
+ColorActiveMenuItemText = #ededed
+ColorActiveTaskBarApp = "rgb:23/23/23"
+ColorActiveTaskBarAppText = "rgb:ed/ed/ed"
+ColorActiveTitleBar = "rgb:44/44/44"
+ColorActiveTitleBarText = "rgb:44/44/44"
+ColorClock = "rgb:44/44/44"
+ColorClockText = "rgb:ed/ed/ed"
+ColorDefaultTaskBar = "rgb:44/44/44"
+ColorMinimizedTaskBarApp = "rgb:44/44/44"
+ColorMinimizedTaskBarAppText = "rgb:ed/ed/ed"
+ColorNormalMenu = "rgb:44/44/44"
+ColorNormalMenuItemText = "rgb:ed/ed/ed"
+ColorNormalTaskBarApp = "rgb:44/44/44"
+ColorNormalTaskBarAppText = "rgb:ed/ed/ed"
+ColorQuickSwitch = "rgb:44/44/44"
+ColorQuickSwitchText = "rgb:ed/ed/ed"
+ColorToolButton = "rgb:44/44/44"
+ColorToolButtonText = "rgb:ed/ed/ed"
+
+DesktopBackgroundImage="background.jpg"
+TitleBarHeight=16
+TitleButtonsLeft=""
+
+
+#
+# Menu
+#
+
+
+#
+# TaskBar
+#
+ColorApmBattery="rgb:ff/00/00"
+ColorApmLine="rgb:ed/ed/ed"
+
+#
+# TitleBar
+#
+ColorNormalTitleBar = "rgb:44/44/44"
+ColorNormalTitleBarText = "rgb:44/44/44"
+
+
+#
+# ToolTip
+#
+ColorToolTip = "rgb:ea/a5/88"
+ColorToolTipText = "rgb:00/00/00"
+
+
+#
+# Font Specification
+#
+MenuFontNameXft			=	arial:size=11:normal
+MinimizedWindowFontNameXft	=	arial:size=10:bold
+ActiveButtonFontNameXft		=	arial:size=10:bold
+NormalButtonFontNameXft		=	arial:size=10:bold
+ToolButtonFontNameXft		=	arial:size=10
+NormalWorkspaceFontNameXft	=	arial:size=10:bold
+QuickSwitchFontNameXft		=	arial:size=10:normal
+ListBoxFontNameXft		=	arial:size=10:bold
+StatusFontNameXft		=	arial:size=10:bold
+ToolTipFontNameXft		=	arial:size=10:normal
+ActiveTaskBarFontNameXft	=	arial:size=10:bold
+NormalTaskBarFontNameXft	=	arial:size=10:normal
+ClockFontNameXft		=	arial:size=10:normal
+InputFontNameXft		=	sans-serif:size=10:bold
+
+
+#
+# Windows and dialogs
+#
+BorderSizeX=1
+BorderSizeY=1
+CornerSizeX=26
+CornerSizeY=26
+DlgBorderSizeX=1
+DlgBorderSizeY=1

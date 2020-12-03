@@ -1,0 +1,21 @@
+WorkspaceNames="1"
+
+#
+# Menu
+#
+ShowWindowList=0
+ShowProgramsMenu=1
+ShowFocusModeMenu=0
+ShowRun=1
+
+#
+# TaskBar
+#
+TaskBarAutoHide=0
+TaskBarShowCPUStatus=0
+TaskBarShowMailboxStatus=0
+TaskBarShowMEMStatus=0
+TaskBarShowNetStatus=0
+TaskBarShowShowDesktopButton=0
+TaskBarShowWindowListMenu=0
+TaskBarShowWorkspaces=0
